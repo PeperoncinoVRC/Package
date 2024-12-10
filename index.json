@@ -1,7 +1,7 @@
 {
   "name":"PeperoncinoVRC VPM",
   "author":"PeperoncinoVRC",
-  "url":"https://PeperoncinoVRC.github.io/vpm-repos/index.json",
+  "url":"https://PeperoncinoVRC.github.io/Package/index.json",
   "id":"com.peperoncinovrc.vpm",
   "packages":{
     "com.peperoncinovrc.dancemotionsetter":{
